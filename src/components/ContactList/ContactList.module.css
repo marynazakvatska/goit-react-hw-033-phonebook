@@ -1,0 +1,22 @@
+.element {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding-left: 0;
+
+}
+
+.number {
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.btn {
+    font-size: 26px;
+    width: 150px;
+    height: 40px;
+}
+
+.list_contacts {
+    padding-left: 0;
+}
