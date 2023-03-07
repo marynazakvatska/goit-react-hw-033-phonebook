@@ -76,8 +76,8 @@ export default class Form extends Component {
 
 Form.propTypes = {
   
-  onChange: PropTypes.func.isRequired,
-  onSubmit: PropTypes.func.isRequired,
-  value:  PropTypes.string.isRequired,
+  onChange: PropTypes.func,
+  onSubmit: PropTypes.func,
+  value:  PropTypes.string,
 
 }
